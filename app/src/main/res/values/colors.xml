@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#121212</color> <!-- Fondo general casi negro -->
+    <color name="card_surface">#2E2E2E</color> <!-- Gris oscuro para las tarjetas -->
+    <color name="card_stroke">#3B81F4</color> <!-- Borde sutil para separar -->
+    <color name="text_primary">#FFFFFF</color> <!-- Texto principal blanco -->
+    <color name="text_secondary">#B3B3B3</color> <!-- Texto secundario gris claro -->
+    <color name="app_blue">#007BFF</color>
+</resources>

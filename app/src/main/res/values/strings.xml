@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Short Content Blocker</string>
+    <string name="accessibility_service_description">Este servicio monitorea la pantalla para sacarte de los Reels y Shorts cuando alcanzas el límite de tiempo.</string>
+</resources>
